@@ -1,0 +1,8 @@
+Mohammed Abdo!
+You need to install the following:
+
+> activate chatbot
+> pip install nltk
+> pip install numpy
+> pip install tflearn
+> pip install tensorflow
